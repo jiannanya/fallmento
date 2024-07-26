@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/CC/src/sandbox/fallment_co/build",
+  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testOrigin.dir\\test\\testOrigin.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testOrigin.cc",
+  "file": "C:\\CC\\src\\sandbox\\fallment_co\\test\\testOrigin.cc",
+  "output": "CMakeFiles\\testOrigin.dir\\test\\testOrigin.cc.obj"
+}
+]

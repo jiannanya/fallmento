@@ -1,0 +1,20 @@
+Language:  Cpp
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: false
+BreakBeforeBraces: Attach
+AllowShortIfStatementsOnASingleLine: false
+ColumnLimit: 80
+SpacesBeforeTrailingComments: 1
+IndentCaseLabels: false
+PointerBindsToType: true
+SortIncludes: false 
+AlwaysBreakTemplateDeclarations: true #  总是在template声明后换行 
+#SkipMacroDefinitionBody: true
+AlignEscapedNewlines: Right
+
+WhitespaceSensitiveMacros: 
+  - CO_BEGIN
+
+
+
