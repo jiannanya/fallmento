@@ -1,8 +1,32 @@
 [
 {
   "directory": "C:/CC/src/sandbox/fallment_co/build",
-  "command": "F:\\cc\\programs\\LLVM\\bin\\clang++.exe -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testOrigin.dir\\test\\testOrigin.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testOrigin.cc",
+  "command": "clang -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testOrigin.dir\\test\\testOrigin.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testOrigin.cc",
   "file": "C:\\CC\\src\\sandbox\\fallment_co\\test\\testOrigin.cc",
   "output": "CMakeFiles\\testOrigin.dir\\test\\testOrigin.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/fallment_co/build",
+  "command": "clang -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testOptimize.dir\\test\\testOptimize.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testOptimize.cc",
+  "file": "C:\\CC\\src\\sandbox\\fallment_co\\test\\testOptimize.cc",
+  "output": "CMakeFiles\\testOptimize.dir\\test\\testOptimize.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/fallment_co/build",
+  "command": "clang -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testOptimize2.dir\\test\\testOptimize2.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testOptimize2.cc",
+  "file": "C:\\CC\\src\\sandbox\\fallment_co\\test\\testOptimize2.cc",
+  "output": "CMakeFiles\\testOptimize2.dir\\test\\testOptimize2.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/fallment_co/build",
+  "command": "clang -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testMultyield.dir\\test\\testMultyield.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testMultyield.cc",
+  "file": "C:\\CC\\src\\sandbox\\fallment_co\\test\\testMultyield.cc",
+  "output": "CMakeFiles\\testMultyield.dir\\test\\testMultyield.cc.obj"
+},
+{
+  "directory": "C:/CC/src/sandbox/fallment_co/build",
+  "command": "clang -IC:/CC/src/sandbox/fallment_co/. -IC:/CC/src/sandbox/fallment_co/./test -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\testPrimefactor.dir\\test\\testPrimefactor.cc.obj -c C:\\CC\\src\\sandbox\\fallment_co\\test\\testPrimefactor.cc",
+  "file": "C:\\CC\\src\\sandbox\\fallment_co\\test\\testPrimefactor.cc",
+  "output": "CMakeFiles\\testPrimefactor.dir\\test\\testPrimefactor.cc.obj"
 }
 ]
