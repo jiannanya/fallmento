@@ -1,10 +1,10 @@
 
 
-#include "fallment_co_origin.h"
+#include "fallmento_origin.h"
 
 #include <iostream>
 
-using namespace fallment_co;
+using namespace fallmento;
 
 struct fac_data {
     long long n;

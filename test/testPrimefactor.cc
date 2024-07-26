@@ -1,8 +1,8 @@
-#include "fallment_co.h"
+#include "fallmento.h"
 
 #include <iostream>
 
-using namespace fallment_co;
+using namespace fallmento;
 
 struct prime_factor_data {
     int n;

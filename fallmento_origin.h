@@ -1,12 +1,12 @@
 #pragma once
 
-#ifndef FALLMENT_CO_H
-#define FALLMENT_CO_H
+#ifndef FALLMENTO_H
+#define FALLMENTO_H
 
 #include <functional>
 #include <optional>
 
-namespace fallment_co {
+namespace fallmento {
 
 enum class FoState { START, GO, YIELD, STOP };
 
@@ -44,6 +44,6 @@ class fallroutine {
     User* __user_data;
 };
 
-} // namespace fallment_co
+} // namespace fallmento
 
 #endif

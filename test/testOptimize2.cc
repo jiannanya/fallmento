@@ -1,8 +1,8 @@
-#include "fallment_co_optimize.h"
+#include "fallmento_optimize.h"
 
 #include <iostream>
 
-using namespace fallment_co;
+using namespace fallmento;
 
 struct fac_data {
     long long n;
